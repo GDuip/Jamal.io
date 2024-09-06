@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724531024275
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724530517064
+  login: 1724530637800
+money: '0'
+last-account-name: whowantfact
+lastlocation:
+  world: 783a7a76-c37b-480a-8a70-f639ef3012e3
+  world-name: world
+  x: 188.0794405692722
+  y: 143.0
+  z: -197.85795765613307
+  yaw: -337.35003662109375
+  pitch: 10.349992752075195
+logoutlocation:
+  world: b5aee58f-cb9a-45a5-8f87-fa9a499753d8
+  world-name: PVP
+  x: 37.57912057546913
+  y: 11.0
+  z: -61.656891582646494
+  yaw: -41.10037612915039
+  pitch: -74.25001525878906
+nickname: Hitler
